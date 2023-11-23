@@ -40,8 +40,8 @@ Merci pour votre intérêt et votre soutien !
 
 ## Credit & Contact
 
-Louis KREJEZY, louiskrejezy@gmail.com, https://github.com/LouisKzy
-Lalaina RAJAONARISOA, raja.lalaina@gmail.com, https://github.com/R4ja34
-Mathieu AMACHER, amacher_mathieu@hotmail.com, https://github.com/mathieuamacher
-Florian ROY, floflo97231@live.fr, https://github.com/florianrabbah
-Robin DEBESSEL, robindebessel.pro@gmail.com, https://github.com/ho757uff
+- Louis KREJEZY, louiskrejezy@gmail.com, https://github.com/LouisKzy
+- Lalaina RAJAONARISOA, raja.lalaina@gmail.com, https://github.com/R4ja34
+- Mathieu AMACHER, amacher_mathieu@hotmail.com, https://github.com/mathieuamacher
+- Florian ROY, floflo97231@live.fr, https://github.com/florianrabbah
+- Robin DEBESSEL, robindebessel.pro@gmail.com, https://github.com/ho757uff
