@@ -29,14 +29,19 @@ Voici les étapes que nous avons suivies pour la réalisation de notre maquette 
 - Conception sur Figma : En utilisant Figma, nous avons transformé nos croquis en maquettes interactives. Nous nous sommes assurés d'inclure tous les éléments d'interface utilisateur nécessaires, tels que les boutons, les menus, les champs de recherche, etc.
 - Revue en équipe : Une fois que notre maquette était complète, nous avons organisé une revue en équipe. Cette étape nous a permis de donner et de recevoir des commentaires constructifs. Nous avons effectué plusieurs cycles de revue pour finaliser notre maquette.
 
-En réalisant cette maquette, nous nous sentons mieux préparés pour le projet de la semaine prochaine. Non seulement nous avons une idée claire de ce que nous voulons créer, mais nous disposons également d'un plan visuel à suivre. Cela accélérera notre développement et nous aidera à éviter les erreurs de conception.
+En réalisant cette maquette, nous nous sentons bien préparés pour le projet de la semaine prochaine.
+Non seulement nous avons une idée claire de ce que nous voulons créer, mais nous disposons également d'un plan visuel à suivre.
+Cela accélérera notre développement et nous aidera à éviter les erreurs de conception.
 
 ## Rendu
 
+Vous trouverez dans ce repo quelques snapshot de nos sketches.
 Notre maquette est sur Figma et vous pouvez la consulter [ici](https://www.figma.com/file/Uh4vufOK2AiXqQi6G777I4/CHATON-PROJECT?type=design&node-id=10%3A13&mode=design&t=1AaO22xbDseTq36N-1).
 
-Nous avons hâte de concrétiser nos idées créatives grâce à ce projet aussi kawaii qu'excitant. 
-Merci pour votre intérêt et votre soutien !
+
+Nous avons hâte de concrétiser nos idées créatives grâce à ce projet aussi kawaii qu'excitant.
+
+Merci pour votre intérêt et votre soutien les p'tits chatons d'amore :3
 
 ## Credit & Contact
 
